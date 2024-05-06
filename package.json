@@ -1,0 +1,13 @@
+{
+  "name": "calc-mj",
+  "version": "1.0.1",
+  "description": "This is the calculator npm package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["calc-mj"],
+  "author": "Jignesh Mahadik",
+  "license": "ISC"
+}
